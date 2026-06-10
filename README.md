@@ -13,4 +13,4 @@
 - Get a Software Engineering Internship
 
 📫 Connect with me:
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/brijeshyadav310170-rgb
